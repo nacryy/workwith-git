@@ -1,1 +1,3 @@
-func juma(){}
+package main
+
+func main(){}
